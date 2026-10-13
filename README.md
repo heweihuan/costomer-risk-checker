@@ -31,11 +31,11 @@ export OPENAI_API_KEY=你的大模型密钥
 
 3. 运行程序：
 
-python company_risk_checker.py
+Ai自动查询.py
 
 也可以指定自己的客户名单文件：
 
-python company_risk_checker.py 虚拟客户名单.xlsx
+Ai自动查询.py 虚拟客户名单.xlsx
 
 程序会生成 客户背景核查结果.xlsx。
 
