@@ -39,6 +39,9 @@ Ai自动查询.py 虚拟客户名单.xlsx
 
 程序会生成 客户背景核查结果.xlsx。
 
+运行结果
+<img width="994" height="627" alt="Ai自动查询运行结果" src="https://github.com/user-attachments/assets/d6f62d1e-90e4-418f-a894-b031ced9f504" />
+<img width="1181" height="697" alt="查询到的表格名单" src="https://github.com/user-attachments/assets/a3530df9-cced-4422-8e2e-f2b83e7e1123" />
 输出字段
 
 公司名、登记状态、注册资本、参保人数、法定代表人、成立时间、经营异常、风险总结。
