@@ -181,7 +181,7 @@ def main():
         print("正在自动生成虚拟客户名单……")
         input_file = create_demo_excel()
 
-    df = pd.read_excel(input_file)
+    df = pd.read_excel(r"D:\建立项目\虚拟客户名单.xlsx", header=1)
 
     if "公司名称" not in df.columns:
         print("Excel 文件中缺少【公司名称】列，请检查表头。")
